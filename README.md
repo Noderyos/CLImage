@@ -2,7 +2,7 @@
 
 ## This tool allow you to render image on CLI under linux
 
-## ! Your terminal need to be compatible with xterm-256color !
+## ⚠️ Your terminal need to be compatible with xterm-256color ⚠️
 
 You can launch it simply by running the `main.py` file
 
